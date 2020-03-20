@@ -1,0 +1,8 @@
+{
+  "name": "@myapp/feature",
+  "version": "1.0.0",
+  "dependencies": {
+    "@types/react": "16.9.23",
+    "react": "16.13.1"
+  }
+}
